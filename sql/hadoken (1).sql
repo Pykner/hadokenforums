@@ -218,7 +218,7 @@ CREATE TABLE `tournament` (
 --
 
 INSERT INTO `tournament` (`id`, `title`, `link`, `txt`, `likes`, `data_inizio`, `data_fine`, `FkAccountid`, `major`, `online`, `region`, `address`, `FkGameid`) VALUES
-(1, 'HoHs', 'https://challonge.com/it/Hoesoncino', 'Gaming', 0, '2022-05-14', '2022-05-14', 1, 0, 0, 'Europe', 'Italy, Soncino, Via XXV aprile, 4', 1);
+(1, 'HoHs', 'https://challonge.com/it/Hoesoncino', 'Gaming', 0, '2022-05-14', '2022-05-14', 1, 0, 0, 'Europe', 'Italy, FakeTown, Via FakeStreet, 4', 1);
 
 -- --------------------------------------------------------
 
