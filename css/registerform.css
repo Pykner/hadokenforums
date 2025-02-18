@@ -1,0 +1,45 @@
+.registerform{
+    background-color: #282424;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 20px;
+    padding: 10px;
+  }
+
+  .registerform label{
+    color: white;
+  }
+  
+  .registerform p{
+    color: red;
+  }
+
+  .input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .icon {
+    color: white;
+    min-width: 50px;
+    text-align: center;
+    margin-top: 17px;
+  }
+  
+
+  /* Set a style for the submit button */
+  .btn {
+    background-color: #F8B552;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }

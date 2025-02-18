@@ -1,0 +1,71 @@
+#GGST{
+    width: 315px;
+    height: 134px;
+    
+}
+
+#SFV{
+    width: 205px;
+    height: 134px;
+   
+}
+
+#T7{
+    width: 175px;
+    padding-right: 10px;
+    height: 134px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.games{
+    text-align: center;  
+}
+
+.resource_container{
+    background-color: #282424;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.tournament_container{
+    background-color: #282424;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.resource_title{
+    color: white;
+}
+
+.resourceinfo{
+    color: white;
+    width: 50%;
+    float: left;
+}
+
+.resourceinfo a{
+    color: #F8B552;
+    text-decoration: none;
+}
+
+.valid_check{
+    width: 50%;
+    float: right;
+    text-align: center;
+    color: white;
+}
+
+.tinfo{
+    width: 50%;
+    float: right;
+    text-align: center;
+    color: white;
+}
